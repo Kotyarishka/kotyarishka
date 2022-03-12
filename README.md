@@ -9,10 +9,6 @@
 
 - 📫 How to reach me **kotyrishka@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kotyarishka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kotyarishka" height="30" width="40" /></a>
@@ -24,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kotyarishka&show_icons=true&locale=en&layout=compact" alt="kotyarishka" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kotyarishka&show_icons=true&locale=en" alt="kotyarishka" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kotyarishka&show_icons=true&locale=en" alt="kotyarishka" /></p>
