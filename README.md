@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kot</h1>
-<h3 align="center">A developer *mostly* in GMod</h3>
+
+<div style="width: 100%; display: flex; justify-content: center">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/flag-ukraine_1f1fa-1f1e6.png" style="width: 64px;">
+</div>
+
+<h3 align="center">Staying with Ukraine, in Ukraine.</h3>
+
+<p align="center">A developer *mostly* in GMod</p>
 
 - 🔭 I’m currently working on [MULTIVERSE Project](https://github.com/MULTIVERSE-Project)
 
